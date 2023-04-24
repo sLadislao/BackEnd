@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestRamsay.Core/1.0.0": {
+        "runtime": {
+          "TestRamsay.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRamsay.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

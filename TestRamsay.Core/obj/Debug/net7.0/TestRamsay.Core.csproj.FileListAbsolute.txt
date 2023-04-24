@@ -1,0 +1,12 @@
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/bin/Debug/net7.0/TestRamsay.Core.deps.json
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/bin/Debug/net7.0/TestRamsay.Core.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/bin/Debug/net7.0/TestRamsay.Core.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.csproj.AssemblyReference.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.AssemblyInfoInputs.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.AssemblyInfo.cs
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.csproj.CoreCompileInputs.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/refint/TestRamsay.Core.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/TestRamsay.Core.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Core/obj/Debug/net7.0/ref/TestRamsay.Core.dll
