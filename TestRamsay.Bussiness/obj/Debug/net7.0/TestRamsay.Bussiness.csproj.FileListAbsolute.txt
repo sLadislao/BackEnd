@@ -1,0 +1,17 @@
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Bussiness.deps.json
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Bussiness.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Bussiness.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Core.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Data.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Core.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/bin/Debug/net7.0/TestRamsay.Data.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.csproj.AssemblyReference.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.AssemblyInfoInputs.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.AssemblyInfo.cs
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.csproj.CoreCompileInputs.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.csproj.CopyComplete
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/refint/TestRamsay.Bussiness.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/TestRamsay.Bussiness.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Bussiness/obj/Debug/net7.0/ref/TestRamsay.Bussiness.dll
