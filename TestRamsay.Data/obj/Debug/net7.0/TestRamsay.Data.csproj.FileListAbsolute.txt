@@ -1,0 +1,17 @@
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/bin/Debug/net7.0/TestRamsay.Data.deps.json
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/bin/Debug/net7.0/TestRamsay.Data.runtimeconfig.json
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/bin/Debug/net7.0/TestRamsay.Data.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/bin/Debug/net7.0/TestRamsay.Data.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/bin/Debug/net7.0/TestRamsay.Core.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/bin/Debug/net7.0/TestRamsay.Core.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.csproj.AssemblyReference.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.AssemblyInfoInputs.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.AssemblyInfo.cs
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.csproj.CoreCompileInputs.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.csproj.CopyComplete
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/refint/TestRamsay.Data.dll
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.pdb
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/TestRamsay.Data.genruntimeconfig.cache
+/Users/lao/Projects/TestRamsay/BackEnd/TestRamsay.Data/obj/Debug/net7.0/ref/TestRamsay.Data.dll
