@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TestRamsay.API.props" />
+</Project>
